@@ -1,6 +1,6 @@
 👋 Hi, I’m @akmzyra
-I'm a 2nd year Software Engineering student. 
-I am currently learning C/C++, HTML, Java. Probably will be learning more programming languages soon.
+I'm a 3rd year Software Engineering student. 
+I am currently learning C/C++, Java, HTML, PHP, CSS, Javascript. Probably will be learning more programming & scripting languages soon.
 
 <!---
 akmzyra/akmzyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
