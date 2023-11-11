@@ -1,4 +1,4 @@
-👋 Hi, I’m @akmzyra
+<!--👋 Hi, I’m @akmzyra
 I'm a 4th year Software Engineering student. 
 Interested in Web Development & Design field.
 I am currently learning C/C++, Java, HTML, PHP, CSS, Javascript. Probably will be learning more programming & scripting languages soon.
